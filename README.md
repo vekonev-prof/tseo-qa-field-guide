@@ -21,7 +21,7 @@
 Формат каждой проверки: **«Что и зачем → Что делать → Инструменты»**, с чёткой границей ответственности (что находит и чинит QA, а что решает SEO).
 
 ## Инструменты
-Screaming Frog, Google Search Console, Lighthouse / PageSpeed Insights, Rich Results Test, DevTools, Link Redirect Trace, metatags.io, MS Clarity, DNSChecker.
+Screaming Frog, Google Search Console, PageSpeed Insights, Rich Results Test, DevTools, Link Redirect Trace, metatags.io, MS Clarity, DNSChecker.
 
 ## Как использовать
 1. Прогоняйте по чек-листу перед релизом и на регулярных проверках LIVE-сайтов.
