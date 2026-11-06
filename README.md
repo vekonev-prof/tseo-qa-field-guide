@@ -20,6 +20,8 @@
 
 Формат каждой проверки: **«Что и зачем → Что делать → Инструменты»**, с чёткой границей ответственности (что находит и чинит QA, а что решает SEO).
 
+- **Pre-Release QA Checklist** (`pre-release-qa-checklist.md`) — визуальный, UX и предрелизный SEO-чек-лист: та версия, по которой работает мой AI QA-агент (Claude Code + Playwright).
+
 ## Инструменты
 Screaming Frog, Google Search Console, PageSpeed Insights, Rich Results Test, DevTools, Link Redirect Trace, metatags.io, MS Clarity, DNSChecker.
 
